@@ -1,5 +1,8 @@
 # GeusAI
 ## Collect training data and train a model to play the popular game "Geoguessr" 
+<img width="733" alt="image" src="https://github.com/tqpatil/GeusAI/assets/34226808/0646af79-f9b0-499d-b916-a17d5f0b0b9f">
+
+
 Make a directory in this folder titled "Model Data" before running the code. You also must replace the "password" variable with your password to geoguessr. 
 - Implemented with Python Selenium
 #### To do:
